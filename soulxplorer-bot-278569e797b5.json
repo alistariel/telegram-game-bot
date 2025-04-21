@@ -1,0 +1,13 @@
+{
+  "type": "service_account",
+  "project_id": "soulxplorer-bot",
+  "private_key_id": "278569e797b5c65da55348f1d27f5df9e161b875",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvQIBADANBgkqhkiG9w0BAQEFAASCBKcwggSjAgEAAoIBAQC+7GZC4s4P23w8\n0RB3ZfI7rfM3DSC56rg3dVpQ6tv8QwVCf9lmy574rhR9q+9i3EPv1i0m2fCWGeEP\nPpWCIHzq7r6vrKyQzYfQGmup13eEDhiOkihz+lU4tN0ElLw3FOLsWJTDbK4nuwyk\nCWIOASJ6FCY+bR92T0Wze9rwUfan+/JND8Q+ZQpGSZKaYQSK24PkWf1q7IB/mJ/l\nG8OCzi3xC1o00wpZCTLdAE2ZhA/8QIK98S/rISaSBPR9VzDqZ7NAxNAo3CL1yyBl\nn6756qg10gLKHWJdBULcQP2oJNNFzEakD01BkZcTcFeqMFH5nv/Eroj4X82rzmdc\nuSlbTyZtAgMBAAECggEABMmWmpQMFE+Sbk+wCM1IjnwehWGEGxDKeHobyCnMoIKE\n3L7OrfyO/N2Fwrr4oGDsTJ3xMAvbIaBsEogAbr8dF1mZGOoxVCPthUMDMtUl+Gyq\n62aUsqxgqWeSeu+2a6bh7PaNGY7UdSK7GjNWUXgCh4YjZMqg/mjWChnGeJnNjYBT\nmzd2oRn2ByDUn12ar490yzE3WW8M2rfJNCVFaW+kiRLOeuvEhv1eLt0iiaV30iXs\nGrKwnwUC9gJihNiEHPSjNwBfAllLXCIlJehhtvG3LDofqNT9W3C7kqAY7lgmtVe+\n/w9a4MZ7ICsbbrYvhCCG8OkH4tCzea9kHSzEhm2QLwKBgQD3TMWwluqbY9Iy07RY\nTMBvCcAJADyffeWy2Alnta1gBpUN5K4JzPrFpxLI0ISB1GRnWoFcr2ncldO0DVqs\nlWe8Q5jU5kxwqOxh549vE6iU2msYPi1DwJIa9CUTblJg5xUR9V7wjI2xXAtFvUzu\n1DPKFGaQFjajKcvtAdd/LsvfiwKBgQDFo+P/vOI9T5P0LipM4WJcn1wD3wCpMjO+\nsgAwt+wwYPqI4vujy+Lklw0AVzCemwrhEF9Acixe7yGJMdYc3bN7+uN0J42d2VCe\ndecYBmSNHj7/t5l6JzOErDgRl2Bolxp+yQy/oOWxEsRpwdG82SWzFsyMoU9XmeuW\naDrqwhdQ5wKBgCh/HfBpBkoj8ov4NxQunWSRiCzxKPxFNZQv5HpjOdz7tvTrecSJ\nGJe9YEoaO1i3WynBnGV9JCzHLD/T4AFbBf3CZAiZHfNk9jCiJs7dvUGC8v6pT+hE\nZKidSmUAL+VGciDauY1StvFQTVhCQ5LolQKGjLUTribR9V7+ajedhi05AoGAbovy\nLoxG+0Y0moLr9B6o9ufH/v5QD1NeMA6+HoHxoUnNOJ3FZOPY4EVA52zdbAmKt0KC\nFLkH6n3VAzkV6wVyrCkz6jdpdd4kws1t2jlRKsG9OSlHtlSQ82ek4OoL6dSC5GGu\nOM1VTIsTw5e+qePHu3lIJmzfxT750CIyujaf9gcCgYEA9fb3378loU7MnRXkCN8s\nsjGXeySQ6gQkUo+F3u4pSqRQyiw8OOLL8U+/uSQ+ZhdxQxtMH4DDoG1HGLHtDH4g\nws4CThCJXzTOFWxy6ys12SrxY5IrExQm+XBHkX5J+cc+cVn1+p4bfpkaEv0MSvot\n5xX4l0Zi4JeApDuIFWLYwuQ=\n-----END PRIVATE KEY-----\n",
+  "client_email": "bot-access@soulxplorer-bot.iam.gserviceaccount.com",
+  "client_id": "116565794636499154566",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/bot-access%40soulxplorer-bot.iam.gserviceaccount.com",
+  "universe_domain": "googleapis.com"
+}
